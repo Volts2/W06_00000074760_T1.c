@@ -1,5 +1,7 @@
 untuk yang tugas 1 dan 2 gk tau kenapa kenapa bisa dicompile namun pas dibuka langsung close sendiri
 
+Github Saya : https://github.com/Volts2/W06_00000074760_T1.c.git
+
 saya coba outputnya di online compiler keluar hasilnya
 Web : https://www.onlinegdb.com
 
